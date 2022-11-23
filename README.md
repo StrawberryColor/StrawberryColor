@@ -1,5 +1,5 @@
 #### Profile views
-<img src="https://komarev.com/ghpvc/?username=Pop-Apple">
+<img src="https://komarev.com/ghpvc/?username=StrawberryColor">
 
 ## Hi there, I'm Strawberry 🍓
 
